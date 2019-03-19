@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AntonSkiba/Algs/issues"
   },
-  "homepage": "https://github.com/AntonSkiba/Algs#readme"
+  "homepage": "https://github.com/AntonSkiba/Algs#readme",
+  "dependencies": {
+    "sharp": "^0.22.0"
+  }
 }
